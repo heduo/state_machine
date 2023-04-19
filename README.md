@@ -1,7 +1,9 @@
 # State Machine Visualization
-This program connects to a server and simulates a state machine by sending and receiving data and finally create a pdf file called "state_machine.pdf".
+This program connects to a server and simulates a state machine by sending and receiving data and finally create a pdf file called <b>"state_machine.pdf"<b>.
 
->This program utilizes a random number generator to produce actions randomly ranging from 1 to 3.
+- This program utilizes a random number generator to produce actions randomly ranging from 1 to 3.
+- Max transition count is set to 100
+- Users can continue or break the program if state Z is reached
 
 ## Requirements
 - Python 3.6 and above installed on your local machine
